@@ -62,7 +62,6 @@ a:visited {
 
 .eye-pupil {
     aspect-ratio: 1/1;
-    border-radius: 100%;
     position: absolute;
     left: 0;
     right: 0;
